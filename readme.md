@@ -1,9 +1,10 @@
 # 현대인을 위한 음식정보 어플
 
+![KakaoTalk_20211231_152307502](https://user-images.githubusercontent.com/62790857/152284569-d824c2cf-dc18-4d5a-8a9f-d740385bd9e2.png)
 
 # 바쁜 일상의 현대인에게 자주 접할수 있는 편의점 인스턴트 음식에 대한 정보 어플
 
-![KakaoTalk_20211231_152307502](https://user-images.githubusercontent.com/62790857/152284050-b4c9fd7e-b00e-4eaf-beaa-59f6e721e9bd.png)
+
 
 
 <h1> 메인화면 </h1>
